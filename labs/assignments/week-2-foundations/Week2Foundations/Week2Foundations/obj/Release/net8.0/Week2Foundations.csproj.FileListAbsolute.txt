@@ -1,0 +1,15 @@
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\bin\Release\net8.0\Week2Foundations.exe
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\bin\Release\net8.0\Week2Foundations.deps.json
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\bin\Release\net8.0\Week2Foundations.runtimeconfig.json
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\bin\Release\net8.0\Week2Foundations.dll
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\bin\Release\net8.0\Week2Foundations.pdb
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\Week2Foundations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\Week2Foundations.AssemblyInfoInputs.cache
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\Week2Foundations.AssemblyInfo.cs
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\Week2Foundations.csproj.CoreCompileInputs.cache
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\Week2Foundations.sourcelink.json
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\Week2Foundations.dll
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\refint\Week2Foundations.dll
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\Week2Foundations.pdb
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\Week2Foundations.genruntimeconfig.cache
+C:\Users\vitoria\dev260_fall_2025\labs\assignments\week-2-foundations\Week2Foundations\Week2Foundations\obj\Release\net8.0\ref\Week2Foundations.dll
