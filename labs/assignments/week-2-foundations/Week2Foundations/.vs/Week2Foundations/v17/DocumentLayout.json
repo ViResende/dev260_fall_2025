@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\vitoria\\dev260_fall_2025\\labs\\assignments\\week-2-foundations\\Week2Foundations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25E43E8E-ED07-462C-BC01-BB6D181CD6DA}|..\\..\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\Week2Foundations.csproj|c:\\users\\vitoria\\dev260_fall_2025\\labs\\assignments\\week-2-foundations\\week2foundations\\week2foundations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25E43E8E-ED07-462C-BC01-BB6D181CD6DA}|..\\..\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\Week2Foundations.csproj|solutionrelative:week2foundations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitoria\\dev260_fall_2025\\labs\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Week2Foundations\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25E43E8E-ED07-462C-BC01-BB6D181CD6DA}|..\\..\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\Week2Foundations.csproj|c:\\users\\vitoria\\dev260_fall_2025\\labs\\assignments\\week-2-foundations\\week2foundations\\week2foundations\\complexity.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{25E43E8E-ED07-462C-BC01-BB6D181CD6DA}|..\\..\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\Week2Foundations.csproj|solutionrelative:week2foundations\\complexity.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitoria\\dev260_fall_2025\\labs\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\OBSERVATIONS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Week2Foundations\\OBSERVATIONS.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25E43E8E-ED07-462C-BC01-BB6D181CD6DA}|..\\..\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\Week2Foundations.csproj|c:\\users\\vitoria\\dev260_fall_2025\\labs\\assignments\\week-2-foundations\\week2foundations\\week2foundations\\observations.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{25E43E8E-ED07-462C-BC01-BB6D181CD6DA}|..\\..\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\Week2Foundations.csproj|solutionrelative:week2foundations\\observations.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vitoria\\dev260_fall_2025\\labs\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\COMPLEXITY.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Week2Foundations\\COMPLEXITY.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "OBSERVATIONS.md",
               "DocumentMoniker": "C:\\Users\\vitoria\\dev260_fall_2025\\labs\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\OBSERVATIONS.md",
               "RelativeDocumentMoniker": "Week2Foundations\\OBSERVATIONS.md",
@@ -34,12 +34,11 @@
               "RelativeToolTip": "Week2Foundations\\OBSERVATIONS.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAACcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-13T21:44:52.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-13T21:44:52.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "COMPLEXITY.md",
               "DocumentMoniker": "C:\\Users\\vitoria\\dev260_fall_2025\\labs\\assignments\\week-2-foundations\\Week2Foundations\\Week2Foundations\\COMPLEXITY.md",
               "RelativeDocumentMoniker": "Week2Foundations\\COMPLEXITY.md",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "Week2Foundations\\COMPLEXITY.md",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2025-10-11T19:09:12.352Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-11T19:09:12.352Z"
             },
             {
               "$type": "Document",
