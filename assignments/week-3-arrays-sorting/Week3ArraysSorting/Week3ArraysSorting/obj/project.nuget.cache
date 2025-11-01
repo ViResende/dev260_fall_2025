@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tl6UuNiNEzE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vitoria\\dev260_fall_2025\\assignments\\week-3-arrays-sorting\\Week3ArraysSorting\\Week3ArraysSorting\\Week3ArraysSorting\\Week3ArraysSorting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vitoria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\vitoria\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\vitoria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\vitoria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
