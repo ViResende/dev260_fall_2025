@@ -44,9 +44,14 @@ Real-World Applications
 This relates to real spell checkers because they also need fast lookups and good normalization. They most likely use some type of set or dictionary structure similar to this.
 I also learned that real text has many strange characters and punctuation so normalization is very important.
 
-Stretch Features
+## Stretch Features
 
-None implemented yet
+I added the Enhanced Analytics Dashboard.  
+It shows the most common words, the most common misspellings, 
+a simple vocabulary score, and an easy reading level estimate.  
+I used a Dictionary to count how many times each word appears.  
+This made the project feel more complete and helped me practice 
+working with both HashSet and Dictionary together.
 
 Time Spent
 
