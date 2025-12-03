@@ -1,0 +1,15 @@
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\bin\Debug\net8.0\Week3ArraysSorting.exe
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\bin\Debug\net8.0\Week3ArraysSorting.deps.json
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\bin\Debug\net8.0\Week3ArraysSorting.runtimeconfig.json
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\bin\Debug\net8.0\Week3ArraysSorting.dll
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\bin\Debug\net8.0\Week3ArraysSorting.pdb
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\Week3ArraysSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\Week3ArraysSorting.AssemblyInfoInputs.cache
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\Week3ArraysSorting.AssemblyInfo.cs
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\Week3ArraysSorting.csproj.CoreCompileInputs.cache
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\Week3ArraysSorting.sourcelink.json
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\Week3ArraysSorting.dll
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\refint\Week3ArraysSorting.dll
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\Week3ArraysSorting.pdb
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\Week3ArraysSorting.genruntimeconfig.cache
+C:\Users\vitoria\dev260_fall_2025\assignments\week-3-arrays-sorting\Week3ArraysSorting\Week3ArraysSorting\Week3ArraysSorting\obj\Debug\net8.0\ref\Week3ArraysSorting.dll
